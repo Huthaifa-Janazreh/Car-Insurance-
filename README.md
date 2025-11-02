@@ -1,4 +1,4 @@
-![Cover Image](car%20insurance.webp)
+![Cover Image](car-insurance.webp)
 
 # 🚗 Insurance Claim Prediction – Feature Engineering & Selection
 
